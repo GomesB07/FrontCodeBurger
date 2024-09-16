@@ -7,7 +7,7 @@ Pré-requisitos: npm / yarn, docker, postgresSql, mongoDb
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/GomesB07/OrderBurgerApi
+git clone https://github.com/GomesB07/FrontCodeBurger
 
 # Executar o projeto
 (npm/yarn) start
